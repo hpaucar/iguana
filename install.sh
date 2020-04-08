@@ -20,7 +20,7 @@ echo "NFS dir: $NFS"
 echo "Configuration dir: $ETC\n"
 
 func_packages() {
-  LIST_OF_APPS="git golang-go golang docker-compose docker.io nfs-kernel-server nfs-common"
+  LIST_OF_APPS="git golang-go golang docker-compose docker.io nfs-kernel-server nfs-common clang-tidy"
   apt update
 
   for p in $LIST_OF_APPS
