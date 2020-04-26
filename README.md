@@ -18,6 +18,7 @@ After installation, see the IP of your machine and access it in the browser on p
 
 See an example:
 
+
 ```
 http://YOUR_IP:8000
 ```
