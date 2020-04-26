@@ -10,7 +10,7 @@ apt install curl -y && curl -s https://raw.githubusercontent.com/naylor/doutorad
 
 2. Download the virtual machine ready, just import it into VirtualBox.
 
-* [Host1](https://drive.google.com/file/d/1M7Ww_hYHG7npj_4IqzkRol3nCU3PBHxG/view?usp=sharing) - Click to download
+* [Host1](https://drive.google.com/file/d/1RvpZsCzN3P7N5o47-Ikoa1Ml_j34oStO/view?usp=sharing) - Click to download
 
 If using the VM, do not forget to correctly configure the network adapter for bridge mode.
 
