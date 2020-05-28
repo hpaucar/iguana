@@ -60,7 +60,7 @@ func_clone() {
 
 func_build() {
   export GOPATH=$SRC/$NAME/
-  rm -fr $SRC/$NAME/src
+  #rm -fr $SRC/$NAME/src
   cd $SRC/$NAME/backend
   go get -d
   rm -fr ../src/github.com/docker/docker/vendor/github.com/docker/go-connections/
