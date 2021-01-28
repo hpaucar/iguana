@@ -1,4 +1,4 @@
-# Doctoral Project
+# Iguana Cluster System
 
 You can install the cluster in two ways:
 
